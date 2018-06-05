@@ -47,23 +47,20 @@ blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
 #Work experience is required
 roles:
  - title: Senior Engineer
-   start: 2016
+   start: 2018
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   employer: Bitforx
+   description: Working as a full-stack developer by creating web,mobile and desktop applications based on blockchain platforms. More info below in additional information.
  - title: Full-Stack Web Developer
    start: 2017
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
+   end: Ongoing
+   employer: Kairos Logistic
+   description: Working as a full-stack developer - creating desktop, web, android and ios applications depending on the people's choice to change and simplify their lives. More info below in additional information.
  - title: PHP Developer
    start: 2016
    end: 2017
    employer: Nordiccar
-   description: Working on a back-side of the application which included: Connecting world-wide companies(BOSCH,BWM,etc) to our
-   webpage so that they could upload their excel file(consisting of the things they wanted to sell,including price, ebay price,amazon price)
-   and automatically we would post their selling parts on our website and also on amazon, ebay, so that they never would have to
-   go to ebay and amazon separately for each product they have. Our database consisted of more than 10Million rows.
+   description: Working as a Laravel Developer - creating a web portal that would change and simplify world-wide companies' process while selling their parts,accessories online. More info below in additional information.
 
 #Education is required
 education:
