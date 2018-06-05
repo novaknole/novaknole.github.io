@@ -46,7 +46,7 @@ blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
 
 #Work experience is required
 roles:
- - title: Senior Engineer
+ - title: Senior Developer
    start: 2018
    end: Ongoing
    employer: Bitforx
@@ -64,10 +64,14 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor of Computer Engineering(B.Sc.)
+   date: 2018 (Not yet)
+   subject: Computer Science and Engineering
+   school: Free University Of Tbilisi, Georgia.
+ - level: Graduation of School
+   date: 2014
+   subject: strong skills in math and physics
+   school: Physics and Mathematics N.41 School  in Georgia, Kutaisi. 
 
 #This section is optional (as is the image link below)
 coursera:
