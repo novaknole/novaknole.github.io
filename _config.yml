@@ -72,7 +72,7 @@ education:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>WEB DEVELOPMENT</strong>: I will go in depth details in what kind of things I've had experience while working for the projects I mentioned above: How to handle more than 10M rows in mysql, mongodb and redis, <strong>how to: </strong> make optimization and indexes and make them super fast, write OOP code, secure linux servers.
+   <strong>WEB DEVELOPMENT</strong>: I will go in depth details in what kind of things I've had experience while working for the projects I mentioned above:<strong>how to: </strong>handle more than 10M rows in mysql, mongodb and redis,  make optimization and indexes and make them super fast, write OOP code, secure linux servers.
    <strong>Destkop</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
   
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
