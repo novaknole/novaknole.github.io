@@ -47,17 +47,17 @@ skills:
 roles:
  - title: Senior Developer
    start: 2018
-   end: Ongoing
-   employer: Bitforx
+   end: 2019
+   employer: Bitforx-Birtvi
    description: Working as a full-stack developer by creating web,mobile and desktop applications based on blockchain platforms. More info below in additional information.
  - title: Full-Stack Web Developer
-   start: 2017
-   end: Ongoing
+   start: 2016
+   end: 2019
    employer: Kairos Logistic
    description: Working as a full-stack developer - creating desktop, web, android and ios applications depending on the people's choice to change and simplify their lives. More info below in additional information.
  - title: PHP Developer
-   start: 2016
-   end: 2017
+   start: 2015
+   end: 2016
    employer: Nordiccar
    description: Working as a Laravel Developer - creating a web portal that would change and simplify world-wide companies' process while selling their parts,accessories online. More info below in additional information.
 
