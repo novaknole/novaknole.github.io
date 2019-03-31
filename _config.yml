@@ -17,27 +17,14 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Java
- - C++
- - C
- - HTML5
- - Javascript
- - Node.Js
- - Jquery
- - Vue.js
- - Angular
- - PHP OOP
- - Laravel
- - Wordpress
- - SDASDASDASDASD : DASDA SDA SDA SD ASD 
- - Mysql
- - Mongodb
- - Redis
- - Ionic
- - Cordova
- - Linux(Ubuntu)
- - Apache
- - Nginx
+ - Java/C++/C
+ - Javascript|Node|Jquery|Vue|Angular|
+ - HTML5|CSS
+ - PHP|Laravel|Wordpress
+ - SQL|Mysql|Redis|Mongodb
+ - Ionic|Cordova
+ - Linux|Ubuntu|Kali|Macintosh
+ - Apache|Nginx
  - Solidity (Ethereum)
 
 
